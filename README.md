@@ -31,3 +31,6 @@ The editable source is in `src/` (CSS, HTML, and the JavaScript split into modul
 - **Go-up hint**: if every set of an exercise reached the top of its rep range last time, the app suggests adding one weight jump (2.5 kg / 5 lb by default; change it in Settings).
 - **PRs**: a session is a record when it beats your best est. 1RM or your heaviest set for that exercise. Bodyweight exercises count most reps. PRs start from your second session of an exercise.
 - **Volume**: weight × reps of every ticked set.
+
+# Disclaimer
+This web app was made with the help of claude ai.
